@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/sxa.jpg" alt="Solvr x Aeon — onchain intel meets autonomous proofs" />
+</p>
+
 # solvr-aeon-skill
 
 AEON skill pack for [Solvr](https://solvrbot.com) — onchain intelligence as the proof-grounding layer for AI-assisted formal verification.
